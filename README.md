@@ -1,6 +1,8 @@
 DessertClicker - Starter Code
 ==============================
 
+nb : i clone this code from android devloper for learn
+
 Starter code for Android Kotlin Fundamentals Codelab 4.1 Lifecycles and logging.
 
 Introduction
